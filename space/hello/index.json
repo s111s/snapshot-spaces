@@ -1,0 +1,27 @@
+{
+  "name": "Hello Token",
+  "network": "56",
+  "symbol": "HELL",
+  "skin": "hello",
+  "domain": "voting.hello.finance",
+  "strategies": [
+    {
+      "name": "hello",
+      "params": {
+        "address": "0x96d759ee055288ec22e1935a5eaf96ce2cb5e373",
+        "chefAddresses": [
+        ]
+      }
+    }
+  ],
+  "members": [
+    "0x7410B577437278eB6fEF8F72205ec36199063867"
+  ],
+  "filters": {
+    "defaultTab": "core",
+    "minScore": 0,
+    "invalids": [
+      "QmT9BHK5gXHSybSqNCWGj1UVyjihbQyWswweR5qh2vMhLT"
+    ]
+  }
+}
